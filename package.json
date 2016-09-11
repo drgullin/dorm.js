@@ -1,0 +1,47 @@
+{
+  "name": "dorm.js",
+  "version": "0.0.1",
+  "description": "Dorm.js is a lightweight JS library that detects mobile (phone or tablet) and desktop browsers/devices.",
+  "keywords": [
+    "javascript",
+    "node.js",
+    "mobile",
+    "phone",
+    "tablet",
+    "desktop",
+    "browser",
+    "device",
+    "internet explorer",
+    "firefox",
+    "chrome",
+    "safari",
+    "yandex",
+    "opera",
+    "ios",
+    "android",
+    "blackberry",
+    "windows phone"
+  ],
+  "homepage": "http://dorm.fronteed.com/",
+  "bugs": {
+    "url": "https://github.com/fronteed/dorm.js/issues",
+    "email": "hello@fronteed.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fronteed/dorm.js.git"
+  },
+  "main": "dorm.js",
+  "author": "Damir Sultanov (http://fronteed.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-standard": "^6.0.0",
+    "eslint-plugin-promise": "^2.0.1",
+    "eslint-plugin-standard": "^2.0.0",
+    "google-closure-compiler-js": "^20160828.0.1",
+    "gulp": "^3.9.1",
+    "gulp-if": "^2.0.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0"
+  }
+}
