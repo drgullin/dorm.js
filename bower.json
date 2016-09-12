@@ -42,14 +42,5 @@
   "ignore": [
     "**/.*",
     "node_modules"
-  ],
-  "devDependencies": {
-    "eslint-config-standard": "^6.0.0",
-    "eslint-plugin-promise": "^2.0.1",
-    "eslint-plugin-standard": "^2.0.0",
-    "google-closure-compiler-js": "^20160828.0.1",
-    "gulp": "^3.9.1",
-    "gulp-notify": "^2.2.0",
-    "gulp-plumber": "^1.1.0"
-  }
+  ]
 }

@@ -36,16 +36,16 @@ Options are fetched automatically from `<html data-dorm="...">` attribute (forma
 - `mobile: string/true/false/null` (device type), default value: `null`
 - `phone: string/true/false/null` (device type), default value: `null`
 - `tablet: string/true/false/null` (device type), default value: `null`
-- `tv: string/true/false/null` (device type), default value: `desktop`
-- `console: string/true/false/null` (device type), default value: `mobile`
-- `bot: string/true/false/null` (device type), default value: `desktop`
+- `tv: string/true/false/null` (device type), default value: `null`
+- `console: string/true/false/null` (device type), default value: `null`
+- `bot: string/true/false/null` (device type), default value: `null`
 
 ### Methods
 
 - `init(options, domNode)` - initiates dorm.js with options
 - `parse(string)` - parses userAgent string and returns object
-- `assign(target, ...sources)` - internal cross-browser helper
-- `trim(variable)` - internal cross-browser helper
+- `assign(target, ...sources)` - internal `Object.assign()` cross-browser helper
+- `trim(variable)` - internal `String.trim()` cross-browser helper
 
 ### Browser support
 
