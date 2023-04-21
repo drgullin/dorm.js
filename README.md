@@ -1,4 +1,4 @@
-# [Dorm.js](http://dorm.fronteed.com/) (in development)
+# [Dorm.js](http://dorm.fronteed.com/) (Desktop OR Mobile) (in development)
 
 **Will be available soon.**
 
